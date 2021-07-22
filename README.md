@@ -1,6 +1,6 @@
 # Como utilizar Axios para consumir una API Rest
 
-Axios es una librería Javascript que nos permite hacer sencillas las operaciones HTTP con la cual podemos procesar de manera facíl esta peticiones al servidor. 
+Axios es una librería Javascript que nos permite hacer sencillas las operaciones HTTP con la cual podemos procesar de manera facíl esta la información que nos regresa el servidor. 
 
 ### Pre-requisitos 📋
 
