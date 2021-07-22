@@ -15,7 +15,7 @@ Solo clona el repo y ejecutalo en tu navegador.
 La API ES pública y puedes encontrar la documentacón aqui [API GoodReads](https://goodreads-devf-aaron.herokuapp.com/docs/) pero los ejemplos puedes utilizarlos con
 cualquier API propia o pública para practicar.
 
-El ejemplo muestra los metodos HTTP REST mas comunes a la hora de consumir un API GET,POST,PUT,PATCH Y DELETE
+El ejemplo muestra los metodos HTTP REST mas comunes a la hora de consumir un API los cuales son: GET,POST,PUT,PATCH Y DELETE
 
 
 
