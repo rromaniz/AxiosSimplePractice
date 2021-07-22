@@ -5,7 +5,7 @@ const button1 = document.getElementById('button1');
 button1.onclick=()=>{
     axios({
         method: 'GET',
-        url:'https://goodreads-devf-aaron.herokuapp.com/api/v1/authors/13149'
+        url:'https://goodreads-devf-aaron.herokuapp.com/api/v1/authors/14289'
     }).then(response=>{
         console.log(response.data);
     }).catch(err => console.log(err));
@@ -64,4 +64,12 @@ button4.onclick=()=>{
     }).then(response=>{
         console.log(response.data);
     }).catch(err => console.log(err));
+}
+
+const button5 = document.getElementById('button5');
+button5.onclick=()=>{
+    axios({
+        method: 'DELETE',
+        url:'https://goodreads-devf-aaron.herokuapp.com/api/v1/authors/14289'
+    }).then(console.log('REGISTRO BORRADO'));
 }
