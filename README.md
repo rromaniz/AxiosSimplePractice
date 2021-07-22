@@ -10,7 +10,7 @@ Las promesas es una de las formas con la que podemos lidiar con operaciones asin
 
 ### Instalación 🔧
 
-Solo clona el repo y ejecutalo en tu navegador.
+Solo clona el repo y ejecutalo en tu navegador, las respuestas de las peticiones apareceran en la consola.
 
 La API ES pública y puedes encontrar la documentacón aqui [API GoodReads](https://goodreads-devf-aaron.herokuapp.com/docs/) pero los ejemplos puedes utilizarlos con
 cualquier API propia o pública para practicar.
