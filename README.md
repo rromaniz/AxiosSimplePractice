@@ -10,6 +10,9 @@ Las promesas es una de las formas con la que podemos lidiar con operaciones asin
 
 ### Instalación 🔧
 
+
+Importa la libreria de [Axios](https://github.com/axios/axios) via npm o simplemente coloca el cdn en tu archivo index.
+
 Solo clona el repo y ejecutalo en tu navegador, las respuestas de las peticiones apareceran en la consola.
 
 La API ES pública y puedes encontrar la documentacón aqui [API GoodReads](https://goodreads-devf-aaron.herokuapp.com/docs/) pero los ejemplos puedes utilizarlos con
